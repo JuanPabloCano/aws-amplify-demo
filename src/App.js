@@ -1,4 +1,3 @@
-import './App.css';
 import '@aws-amplify/ui-react/styles.css';
 import { useEffect, useState } from 'react';
 import { API, graphqlOperation } from 'aws-amplify';
